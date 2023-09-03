@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author samue
  */
-public class CS4_Charm_Parajas {
+public class CS4_Charm_Parajas_Exercise1 {
     
     /**
      * @param args the command line arguments
