@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package cs4_charm_parajas_exercise2;
+package cs4_charm_parajas_exercise3;
 
 /**
  *
  * @author samue
  */
-public class CS4_Charm_Parajas_Exercise2 {
+public class CS4_Charm_Parajas_Exercise3 {
 
     /**
      * @param args the command line arguments
